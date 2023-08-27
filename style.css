@@ -1,0 +1,17 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    /* border: 3px solid red; */
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.visible {
+    opacity: 1;;
+}
+.infos {
+    opacity: 1;
+}
