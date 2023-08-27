@@ -1,17 +1,14 @@
 
 body {
-    display: flex;
-    justify-content: center;
-    /* border: 3px solid red; */
+    margin: 0;
+    padding: 0;
+    background-color: rgb(127, 178, 255);
 }
 .container {
     display: flex;
     flex-direction: column;
+    /* border: 3px solid red; */
+    
     justify-content: center;
-}
-.visible {
-    opacity: 1;;
-}
-.infos {
-    opacity: 1;
+    align-items: center;
 }
